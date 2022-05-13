@@ -1,0 +1,2 @@
+Allfiles filter=lfs diff=lfs merge=lfs -text
+AZ-204-Allfiles.zip filter=lfs diff=lfs merge=lfs -text
